@@ -1,1 +1,4 @@
 
+[submodule "vendor/awesome-module"]
+	path = vendor/awesome-module
+	url = https://github.com/Laris266/awesome-module.git
